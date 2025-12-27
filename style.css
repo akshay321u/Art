@@ -67,3 +67,35 @@ body{
     padding-left: 610px;
     margin-top: -40px;
 }
+@media (max-width: 768px) {
+
+  .aaa {
+    position: static;
+    color: black;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .black {
+    display: none;
+  }
+
+  .button1 {
+    justify-content: center;
+  }
+
+  .head {
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .container1 h1,
+  .container1 p {
+    text-align: center;
+  }
+
+  .black11 {
+    margin-top: 20px;
+    text-align: center;
+  }
+}
